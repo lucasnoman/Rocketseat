@@ -1,6 +1,5 @@
-## Repositório com todo conteúdo relacionado a aulas, desafios e "masterclasses" da Rocketseat
+<center>
+# Repositório com projetos desenvolvidos seguindo as aulas NLW, GoStack e MasterClass (YT) da 🚀 **Rocketseat**
 
-<hr>
-
-## Repository with all content about Rocketseat classes, challenges and masterclass
-
+### Repository with projects developed following 🚀 Rocketseat's NLW, GoStack and MasterClass (YT) classes
+</center>
