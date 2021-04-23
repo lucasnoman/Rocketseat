@@ -3,7 +3,7 @@
   <h2> Streaming de áudio para podcasts desenvolvido pela Rocketseat </h2>
   <h4> Audio streaming for podcasts developed by Rocketseat </h4>
   </br>
-  ![Index page](./public/Index.png)
+  <img src='./public/Index.png' />
   </br>
 </center>
 
